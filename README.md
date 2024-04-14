@@ -14,7 +14,7 @@ Nesta sessão vamos desenvolver uma API de gerenciamento de heróis utilizando *
 > Obs.: Não utilizei o [DynamoDB](https://aws.amazon.com/pt/dynamodb/) da AWS por ser um serviço pago. Então utilizei outro banco NoSQL, o **MongoDB**.
 
 Stack utilizada no projeto:
-- Java 11 (foi utilizado o openjdk-11)
+- Java 11 
 - Maven
 - IDE Eclipse [STS](https://spring.io/tools)
 - Spring WebFlux
